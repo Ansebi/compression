@@ -1,4 +1,3 @@
 # Image Compression Experiments
-May be viewed as a PyTorch hello-world
-P.S.
-I never had to write data in bytearrays before
+May be viewed as a PyTorch hello-world<br>
+Also it is useful in case if one needs to write arrays straight in bytes.
